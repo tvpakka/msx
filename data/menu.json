@@ -4,7 +4,7 @@
         {
             "icon": "info",
             "label": "Welcome",
-            "data": "https://benzac-de.github.io/msx/data/welcome.json"
+            "data": "https://tvpakka.github.io/msx/data/welcome.json"
         },
         {
             "type": "separator",
