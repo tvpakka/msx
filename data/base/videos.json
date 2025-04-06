@@ -22,6 +22,11 @@
             "title": "Video 3",
             "playerLabel": "Video 3",
             "action": "video:http://msx.benzac.de/media/video3.mp4"
+        },
+        {
+            "title": "Video 4",
+            "playerLabel": "Video 4",
+            "action": "video:http://msx.benzac.de/media/video3.mp4"
         }
     ]
 }
