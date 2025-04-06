@@ -1,5 +1,5 @@
 {
-    "headline": "GitHub Pages Example",
+    "headline": "Pvt Server",
     "menu": [
         {
             "icon": "info",
@@ -13,7 +13,7 @@
         {
             "icon": "movie",
             "label": "Videos",
-            "data": "https://benzac-de.github.io/msx/data/base/videos.json"
+            "data": "https://tvpakka.github.io/msx/data/base/videos.json"
         },
         {
             "icon": "music-note",
