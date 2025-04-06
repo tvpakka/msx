@@ -5,7 +5,38 @@
         "type": "separate",
         "layout": "0,0,2,4",
         "icon": "msx-white-soft:movie",
-        "color": "msx-glass"
+        "color": "msx-glass",
+        "options": {
+            "headline": "{context:title} Options",
+            "caption": "opt/menu{tb}{ico:msx-red:stop} opt1{tb}{ico:msx-green:stop} opt2{tb}{ico:msx-yellow:stop} opt3",
+            "template": {
+                "enumerate": false,
+                "type": "control",
+                "layout": "0,0,8,1"
+            },
+            "items": [{
+                    "key": "red|1",
+                    "icon": "msx-red:stop",
+                    "label": "Option 1",
+                    "action": "[cleanup|info:{txt:msx-white:Option 1} for {txt:msx-white:{context:title}} executed.]"
+                }, {
+                    "key": "green|2",
+                    "icon": "msx-green:stop",
+                    "label": "Option 2",
+                    "action": "[cleanup|info:{txt:msx-white:Option 2} for {txt:msx-white:{context:title}} executed.]"
+                }, {
+                    "key": "yellow|3",
+                    "icon": "msx-yellow:stop",
+                    "label": "Option 3",
+                    "action": "[cleanup|info:{txt:msx-white:Option 3} for {txt:msx-white:{context:title}} executed.]"
+                }]   
+        },
+        "properties": {
+            "button:content:key": "red|1",
+            "button:restart:key": "green|2",
+            "button:next:key": "yellow|3",
+            "label:extension": "{ico:msx-red:pageview} {ico:msx-green:replay} {ico:msx-yellow:skip-next}"
+        }
     },
     "items": [
         {
