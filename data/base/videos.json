@@ -15,10 +15,7 @@
             "properties": {
                 "button:content:icon": "settings",
                 "button:content:action": "panel:request:player:options",	
-                "html5x:subtitle": "de",
-                "html5x:subtitle:de:Deutsch": "{asset:id:video1_de.vtt}",
-                "html5x:subtitle:en:English": "{asset:id:video1_en.vtt}",
-                "html5x:subtitle:es:Español": "{asset:id:video1_es.vtt}"				
+                "html5x:subtitle": "de"				
             }
         },
         {
