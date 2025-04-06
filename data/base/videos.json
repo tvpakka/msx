@@ -5,28 +5,47 @@
         "type": "separate",
         "layout": "0,0,2,4",
         "icon": "msx-white-soft:movie",
-        "color": "msx-glass",
+        "color": "msx-glass"
     },
     "items": [
         {
-            "title": "Mr Housekeeping",
+            "title": "Video 1",
             "playerLabel": "Video 1",
-            "action": "video:https://tv.asdftv.workers.dev/download.aspx?file=D%2B%2FRgn4pLptGsESFE9%2FL7WfyzioJRuLFghF5LIoRaWFPREwPao6sSz267dVINXxx&expiry=kMiQskXYG4nAMOA07FUnqQ%3D%3D&mac=5146d8730a42c8509bdfa9d1a588060221231884ba1393264262cab2ee630f8a"
+            "action": {
+                "type": "video",
+                "url": "https://tv.asdftv.workers.dev/download.aspx?file=D%2B%2FRgn4pLptGsESFE9%2FL7WfyzioJRuLFghF5LIoRaWFPREwPao6sSz267dVINXxx&expiry=6mRxHOv1gWPMCXN0BDIo2w%3D%3D&mac=bb1deac2091d820e1f5c4e8012faf2a7914c8a80b0afc79fca3e88c1294d4fc7",
+                "properties": {
+                    "subtitles": {
+                        "enabled": false
+                    }
+                }
+            }
         },
         {
-            "title": "Haiku",
+            "title": "Video 2",
             "playerLabel": "Video 2",
-            "action": "video:https://tv.asdftv.workers.dev/download.aspx?file=nWnhH1eENh7h8r8lOctcsTufIShF%2F5uf90vuvC2wDCdW9pFVoSX5q7rCaEUDaspD&expiry=Oao441IrQPa%2BxaOcej4TDA%3D%3D&mac=16d74f22c77bafacc3223a01931c8db4e007146a4c69dd2df045f22094cdb841"
+            "action": {
+                "type": "video",
+                "url": "http://msx.benzac.de/media/video2.mp4",
+                "properties": {
+                    "subtitles": {
+                        "enabled": false
+                    }
+                }
+            }
         },
         {
-            "title": "Supernatural S01EP14",
+            "title": "Video 3",
             "playerLabel": "Video 3",
-            "action": "video:https://new6.edithxbase.eu.org/46179/free7-5117106150"
-        },
-        {
-            "title": "Attack",
-            "playerLabel": "Video 4",
-            "action": "video:https://tv.asdftv.workers.dev/download.aspx?file=n%2F9kuk8ZS3GbiUUML37cdyt2SovcTu0uh8WMSn%2FPGPwyAJwliZ%2Bm%2B6VXDE3YsNG1&expiry=gIF%2Fu9uV28I5zOaZlHP%2BiA%3D%3D&mac=4750b27e565f1b28d6b5cd6bdba100c5d20992d903bd9b2a9fd7c1db03de3494"
+            "action": {
+                "type": "video",
+                "url": "http://msx.benzac.de/media/video3.mp4",
+                "properties": {
+                    "subtitles": {
+                        "enabled": false
+                    }
+                }
+            }
         }
     ]
 }
