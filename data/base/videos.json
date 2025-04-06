@@ -1,9 +1,4 @@
 {
-    "player": {
-        "subtitles": {
-            "enabled": false
-        }
-    },
     "type": "pages",
     "headline": "Videos",
     "template": {
