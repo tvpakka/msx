@@ -12,11 +12,6 @@
             "title": "Mr Housekeeping",
             "playerLabel": "Video 1",
             "action": "video:https://tv.asdftv.workers.dev/download.aspx?file=D%2B%2FRgn4pLptGsESFE9%2FL7WfyzioJRuLFghF5LIoRaWFPREwPao6sSz267dVINXxx&expiry=kMiQskXYG4nAMOA07FUnqQ%3D%3D&mac=5146d8730a42c8509bdfa9d1a588060221231884ba1393264262cab2ee630f8a",
-            "properties": {
-                "button:content:icon": "settings",
-                "button:content:action": "panel:request:player:options",	
-                "html5x:subtitle": "de",
-            }
         },
         {
             "title": "Haiku",
