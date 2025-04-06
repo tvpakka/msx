@@ -9,14 +9,14 @@
     },
     "items": [
         {
-            "title": "Video 1",
+            "title": "Mr Housekeeping",
             "playerLabel": "Video 1",
             "action": "video:https://tv.asdftv.workers.dev/download.aspx?file=D%2B%2FRgn4pLptGsESFE9%2FL7WfyzioJRuLFghF5LIoRaWFPREwPao6sSz267dVINXxx&expiry=kMiQskXYG4nAMOA07FUnqQ%3D%3D&mac=5146d8730a42c8509bdfa9d1a588060221231884ba1393264262cab2ee630f8a"
         },
         {
-            "title": "Video 2",
+            "title": "Haiku",
             "playerLabel": "Video 2",
-            "action": "video:http://msx.benzac.de/media/video2.mp4"
+            "action": "video:https://tv.asdftv.workers.dev/download.aspx?file=nWnhH1eENh7h8r8lOctcsTufIShF%2F5uf90vuvC2wDCdW9pFVoSX5q7rCaEUDaspD&expiry=Oao441IrQPa%2BxaOcej4TDA%3D%3D&mac=16d74f22c77bafacc3223a01931c8db4e007146a4c69dd2df045f22094cdb841"
         },
         {
             "title": "Video 3",
