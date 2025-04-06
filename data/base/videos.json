@@ -6,10 +6,6 @@
         "layout": "0,0,2,4",
         "icon": "msx-white-soft:movie",
         "color": "msx-glass",
-        "properties": {
-            "button:content:icon": "{context:contentIcon}",
-            "button:content:action": "{context:contentAction}"	
-        }
     },
     "items": [
         {
