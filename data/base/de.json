@@ -1,44 +1,48 @@
 {
     "type": "pages",
-    "headline": "HTML5X Plugin Test",    
-    "template": {       
+    "headline": "HTML5X Plugin Test",
+    "template": {
         "type": "separate",
         "layout": "0,0,2,4",
         "icon": "msx-white-soft:extension",
-        "color": "msx-glass",        
+        "color": "msx-glass",
         "properties": {
             "button:content:icon": "{context:contentIcon}",
             "button:content:action": "{context:contentAction}",
             "html5x:subtitle:en:English": "http://msx.benzac.de/media/sintel/en.vtt",
-            "html5x:subtitle:de:Deutsch": "http://msx.benzac.de/media/sintel/de.vtt",				
+            "html5x:subtitle:de:Deutsch": "http://msx.benzac.de/media/sintel/de.vtt",
             "html5x:subtitle:es:Español": "http://msx.benzac.de/media/sintel/es.vtt",
             "html5x:subtitle:fr:Français": "http://msx.benzac.de/media/sintel/fr.vtt",
             "html5x:subtitle:it:Italiano": "http://msx.benzac.de/media/sintel/it.vtt",
             "html5x:subtitle:nl:Nederlands": "http://msx.benzac.de/media/sintel/nl.vtt",
             "html5x:subtitle:pl:Język polski": "http://msx.benzac.de/media/sintel/pl.vtt",
             "html5x:subtitle:pt:Português": "http://msx.benzac.de/media/sintel/pt.vtt",
-            "html5x:subtitle:ru:Pусский": "http://msx.benzac.de/media/sintel/ru.vtt"			
+            "html5x:subtitle:ru:Pусский": "http://msx.benzac.de/media/sintel/ru.vtt"
         }
     },
-    "items": [{     
+    "items": [
+        {
             "title": "Sintel 1",
             "titleFooter": "Audio & Subtitles",
             "contentIcon": "settings",
             "contentAction": "panel:request:player:options",
-            "playerLabel": "Sintel © copyright Blender Foundation | durian.blender.org",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Haikyuu! - S4 E06 [Dual] 1080p @Anime_Fair.mkv",
-        
-        }, {         
+            "playerLabel": "Sintel © Blender Foundation | durian.blender.org",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Haikyuu!%20-%20S4%20E06%20[Dual]%201080p%20@Anime_Fair.mkv"
+        },
+        {
             "title": "Mr Housekeeping",
             "titleFooter": "2025",
             "contentIcon": "settings",
             "contentAction": "panel:request:player:options",
-            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Mr.HouseKeeping.2025.HQ.1080p.AMZN.WEB-DL.DD+5.1.H.265-CPTN5DW.mkv",
-            "playerLabel": "Mr Housekeeping"
-        }, {    
+            "playerLabel": "Mr Housekeeping (2025)",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Mr.HouseKeeping.2025.HQ.1080p.AMZN.WEB-DL.DD+5.1.H.265-CPTN5DW.mkv"
+        },
+        {
             "title": "Sintel 3",
             "titleFooter": "Subtitles only",
             "contentIcon": "subtitles",
-            "contentAction": "panel:request:player:subtitle"
-        }]
+            "contentAction": "panel:request:player:subtitle",
+            "playerLabel": "Sintel Subtitles"
+        }
+    ]
 }
