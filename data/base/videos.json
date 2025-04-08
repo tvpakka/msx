@@ -19,9 +19,9 @@
             "action": "video:https://tv.asdftv.workers.dev/2:/Haikyuu! - S4 E06 [Dual] 1080p @Anime_Fair.mkv"
         },
         {
-            "title": "Video 3",
+            "title": "IPL",
             "playerLabel": "Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "action": "link:https://cricsters.pages.dev/p2/?id=W2"
         }
     ]
 }
