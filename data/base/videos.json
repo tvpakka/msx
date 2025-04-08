@@ -22,6 +22,11 @@
             "title": "IPL",
             "playerLabel": "Video 3",
             "action": "link:https://cricsters.pages.dev/p2/?id=W2"
+        },
+        {
+            "title": "IPL",
+            "playerLabel": "Video 3",
+            "action": "link:window:https://cricsters.pages.dev/p2/?id=W2"
         }
     ]
 }
