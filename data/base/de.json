@@ -6,8 +6,6 @@
         "layout": "0,0,2,4",
         "icon": "msx-white-soft:extension",
         "color": "msx-glass",        
-        "playerLabel": "Sintel © copyright Blender Foundation | durian.blender.org",
-        "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Haikyuu! - S4 E06 [Dual] 1080p @Anime_Fair.mkv",
         "properties": {
             "button:content:icon": "{context:contentIcon}",
             "button:content:action": "{context:contentAction}",
@@ -26,12 +24,17 @@
             "title": "Sintel 1",
             "titleFooter": "Audio & Subtitles",
             "contentIcon": "settings",
-            "contentAction": "panel:request:player:options"         
+            "contentAction": "panel:request:player:options",
+            "playerLabel": "Sintel © copyright Blender Foundation | durian.blender.org",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Haikyuu! - S4 E06 [Dual] 1080p @Anime_Fair.mkv",
+        
         }, {         
-            "title": "Sintel 2",
-            "titleFooter": "Audio only",
-            "contentIcon": "audiotrack",
-            "contentAction": "panel:request:player:audiotrack"
+            "title": "Mr Housekeeping",
+            "titleFooter": "2025",
+            "contentIcon": "settings",
+            "contentAction": "panel:request:player:options",
+            "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Mr.HouseKeeping.2025.HQ.1080p.AMZN.WEB-DL.DD+5.1.H.265-CPTN5DW.mkv",
+            "playerLabel": "Mr Housekeeping"
         }, {    
             "title": "Sintel 3",
             "titleFooter": "Subtitles only",
