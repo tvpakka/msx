@@ -18,7 +18,7 @@
         {
             "icon": "movie",
             "label": "Videos",
-            "data": "https://tvpakka.github.io/msx/data/base/new.json"
+            "data": "https://tvpakka.github.io/msx/data/base/de.json"
         },
         {
             "icon": "music-note",
