@@ -7,7 +7,7 @@
         "icon": "msx-white-soft:extension",
         "color": "msx-glass",        
         "playerLabel": "Sintel © copyright Blender Foundation | durian.blender.org",
-        "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/download.aspx?file=OLEHUXKJPV%2FQxW%2FnMz%2FD2g3MZGBE%2BNDnEDjDXRNP2NWZ%2Fm9aOJRh35CraJe2glAt&expiry=5ro8mvoVe3nDiIcKhtcgfA%3D%3D&mac=4f844537a8297e0f52322236efb75258cb08ae8ab27177dc62c747d329801c9b",
+        "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/Haikyuu! - S4 E06 [Dual] 1080p @Anime_Fair.mkv",
         "properties": {
             "button:content:icon": "{context:contentIcon}",
             "button:content:action": "{context:contentAction}",
