@@ -18,7 +18,9 @@
           "image": "https://image.tmdb.org/t/p/original//xYv0VsgkvHXcyorhQkcLFADTAAi.jpg",
           "imageFiller": "cover",
           "titleFooter": "2011",
-          "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://100gb.asdftv.workers.dev/2:/GDFlix/Vaagai%20Sooda%20Vaa%20(2011)%20[Tamil%20-%201080p%20HD%20-%20AVC%20-%20UNTOUCHED%20-%20DDP5.1%20-%20x264%20-%20Major].mkv"
+          "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/2:/GDFlix/Vaagai%20Sooda%20Vaa%20(2011)%20[Tamil%20-%201080p%20HD%20-%20AVC%20-%20UNTOUCHED%20-%20DDP5.1%20-%20x264%20-%20Major].mkv",
+          "contentIcon": "settings",
+          "contentAction": "panel:request:player:options"            
        }
     ]
  }
