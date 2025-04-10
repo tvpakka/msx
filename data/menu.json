@@ -12,6 +12,11 @@
         },
         {
             "icon": "movie",
+            "label": "Movies",
+            "data": "https://tvpakka.github.io/msx/data/base/movies.json"
+        },
+        {
+            "icon": "movie",
             "label": "Videos",
             "data": "https://tvpakka.github.io/msx/data/base/videos.json"
         },
