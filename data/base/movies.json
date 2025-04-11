@@ -30,6 +30,15 @@
           "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://tv.asdftv.workers.dev/1:/When Life Gives You Tangerines Season 1 Episode 1 Spring in a Heartbeat 1080p NF WEB DL DDP5 1 Atmos H 265 PMI.mkv",
           "contentIcon": "settings",
           "contentAction": "panel:request:player:options"            
+        },
+        {
+          "title": "When Life Gives You Tangerines S01EP02",
+          "image": "https://image.tmdb.org/t/p/original/q29q6AByug53pnylCytwLA7m6AY.jpg",
+          "imageFiller": "cover",
+          "titleFooter": "2025",
+          "action": "video:plugin:http://msx.benzac.de/plugins/html5x.html?url=https://hl.asdftv.workers.dev/download.aspx?file=yGcHS0pwl6GU18LLgjKx%2FG%2B9HQy4Stb1X1jSLC7wOBS%2Fs1qknBG4AtotNIWB4IuH&expiry=69UaUFxiI3V5yakwPqkvkg%3D%3D&mac=851395d8bfb94c7a8c4124ddbdd8015367e056b50d84e42cb186ee643e6c5124",
+          "contentIcon": "settings",
+          "contentAction": "panel:request:player:options"            
         }
     ]
  }
